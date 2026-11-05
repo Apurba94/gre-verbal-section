@@ -1,0 +1,1 @@
+window.SK_META = {"name": "gre-verbal-section", "title": "Verbal Section Simulator", "exam": "GRE", "area": "GRE Verbal", "desc": "Take timed Verbal sections in the current format: 12 questions in 18 minutes, then 15 in 23.", "content": ["tc.json", "se.json", "gre_reading.json", "arguments.json"], "n": 14};
